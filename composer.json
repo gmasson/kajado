@@ -1,0 +1,24 @@
+{
+  "name": "gmasson/kajado",
+  "description": "Open source CSS library to assist in development with other CSS libraries",
+  "keywords": [
+    "css",
+    "mobile-first",
+    "responsive",
+    "front-end",
+    "bootstrap",
+    "web",
+    "kajado"
+  ],
+  "homepage": "https://github.com/gmasson/kajado",
+  "authors": [
+    {
+      "name": "Gabriel Masson",
+      "email": "contato@professorgabrielmasson.com"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/gmasson/kajado/issues"
+  },
+  "license": "MIT"
+}

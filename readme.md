@@ -1,5 +1,5 @@
-# Kajado CSS
-Kajado is an open source project created for fast and mobile development first, with many ready-made elements, you have the flexibility to customize them as you prefer.
+# Kajado
+Kajado is an open source CSS library designed for rapid development, with many elements and formatting ready, you have the flexibility to customize them as you prefer or use with other CSS libraries like Bootstrap or PureCSS.
 
 ### Starting
 To start using Kajado, visit <https://github.com/gmasson/kajado/wiki> and get full documentation.
