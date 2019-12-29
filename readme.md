@@ -1,8 +1,11 @@
 # Kajado
 Kajado is an open source CSS library designed for rapid development, with many elements and formatting ready, you have the flexibility to customize them as you prefer or use with other CSS libraries like Bootstrap or PureCSS.
 
-### Starting
-To start using Kajado, visit <https://github.com/gmasson/kajado/wiki> and get full documentation.
+## Documentation
+You can find all the documentation on <https://github.com/gmasson/kajado/wiki>.
+
+## Support
+Have questions or need to report a problem? Visit <https://github.com/gmasson/kajado/issues>
 
 ### Compatibility
 * IE 9+
