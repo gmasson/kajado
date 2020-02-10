@@ -1,6 +1,6 @@
 {
   "name": "gmasson/kajado",
-  "description": "Open source CSS library to assist in development with other CSS libraries",
+  "description": "Kajado is an open source CSS library designed for rapid development, with many elements and formatting ready, you have the flexibility to customize them as you prefer or use with other CSS libraries like Bootstrap or PureCSS.",
   "keywords": [
     "css",
     "mobile-first",
