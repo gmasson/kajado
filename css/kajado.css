@@ -1,5 +1,5 @@
 /*
-* kajado 1.2.1
+* kajado 1.2.2
 * https://github.com/gmasson/kajado
 * License MIT
 */
@@ -346,10 +346,6 @@
 }
 
 .img-thumb {
-	padding: .3em;
-	background-color: #ffffff;
-	border: 1px solid #dddddd;
-	border-radius: .3rem;
 	-webkit-transition: all 0.2s ease-in-out;
 	-o-transition: all 0.2s ease-in-out;
 	transition: all 0.2s ease-in-out;
